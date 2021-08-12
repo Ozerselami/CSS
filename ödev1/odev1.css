@@ -1,0 +1,23 @@
+
+body {
+    background-color: hsl(186, 14%, 85%);
+  }
+
+    h1 {
+        color:blue
+    }
+    h2 {
+      color:red;
+      font-size: 40px;
+      font-family: 'Style Script', cursive, bold;
+      font-style:italic;
+  }
+    p {
+      font-size: 20px;
+      font-family:'Times New Roman', Times, serif; 
+      font-style:italic;
+  }
+    ul {
+        font-family: 'Style Script', cursive, bold;
+        font-style:italic;
+    }
